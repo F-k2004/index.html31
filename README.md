@@ -11,7 +11,7 @@
     overflow: hidden;
   }
   canvas {
-    display: block;
+    isplay: block;
   }
 </style>
 </head>
